@@ -55,7 +55,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 TextField(
                   controller: wtController,
                   decoration: InputDecoration(
-                    label:Text("Enter your weight (In kgs)"),
+                    label:Text("Enter your weight (In Kgs)"),
                     prefixIcon: Icon(Icons.line_weight),
 
 
